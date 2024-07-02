@@ -64,9 +64,5 @@
     "metabuilder",
     "data-atelier",
     "elasticdocs"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git@ssh.dev.azure.com:v3/IrayaEnergies/Iraya%20Energies/platform-elastic-docs-ui-mbuilder"
-  }
+  ]
 }
