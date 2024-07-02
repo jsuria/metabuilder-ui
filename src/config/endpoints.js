@@ -1,0 +1,5 @@
+export const API_BASE_URL = "https://stg.api.elastic-docs.irayaenergies.xyz"
+export const AUTH_LOGIN_URL = "/auth/api-token-auth/"
+export const AUTH_TOKEN_REFRESH_URL = "/auth/api-token-refresh/"
+export const API_TEST_IMAGES = "https://my.api.mockaroo.com/images_with_keywords.json?key=ccef3e10"
+export const API_SEARCH_IMAGES = "/search/"

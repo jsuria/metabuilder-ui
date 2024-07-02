@@ -1,0 +1,4093 @@
+[
+  {
+    "img": "1.png",
+    "img_thumb": "1_thumb.png",
+    "attributes": {
+      "entities_list": [
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3872,
+            "y1": 2610,
+            "y2": 2665,
+            "x2": 3935
+          },
+          "doc_text": "63 ~ "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1844,
+            "y1": 2601,
+            "y2": 2699,
+            "x2": 2095
+          },
+          "doc_text": "————_— JOBERHINE P. ISTURIS H—CHIEF, / < L~ BUIDINGS DIVISION, BOD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 593,
+            "y1": 2573,
+            "y2": 2701,
+            "x2": 873
+          },
+          "doc_text": "ANUELY. FANIS ELECTRICALENGINEER POSITION: PRO. ELECTRICAL ENGINEER FRC No:01210  TINNo. 132466222 PTR No.: 4856503 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3221,
+            "y1": 2570,
+            "y2": 2663,
+            "x2": 3682
+          },
+          "doc_text": "ELECTRICAL RISER DIAGRAM, FLOURE SCENT LIGHT FIXTURE MOUNTING DETAIL, SINGLE LINE DIAGRAM, GENERAL NOTES, LEGEND "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2367,
+            "y1": 2569,
+            "y2": 2678,
+            "x2": 2577
+          },
+          "doc_text": "{SEE COVER SHEET) RAUL C. ASIS UNDERSECRETARY "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2104,
+            "y1": 2569,
+            "y2": 2681,
+            "x2": 2341
+          },
+          "doc_text": "{SEE COVER SHEET) DANTE B. POTANTE DIRECTOR IV, BOD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3757,
+            "y1": 2564,
+            "y2": 2618,
+            "x2": 3831
+          },
+          "doc_text": "“50D =S8 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1294,
+            "y1": 2556,
+            "y2": 2637,
+            "x2": 1823
+          },
+          "doc_text": "REPUBLIC OF THE PHILIPPINES DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3838,
+            "y1": 2496,
+            "y2": 2545,
+            "x2": 3959
+          },
+          "doc_text": "[ SHEET NO "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3727,
+            "y1": 2495,
+            "y2": 2547,
+            "x2": 3826
+          },
+          "doc_text": "SET NO "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3156,
+            "y1": 2495,
+            "y2": 2546,
+            "x2": 3352
+          },
+          "doc_text": "SHEET CONTENTS: "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 890,
+            "y1": 2494,
+            "y2": 2651,
+            "x2": 1136
+          },
+          "doc_text": "SUBMITTED: } [24 jes [he RACINES MANAGING PARTNER "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 19,
+            "y1": 2492,
+            "y2": 2706,
+            "x2": 723
+          },
+          "doc_text": "JOINT VENTURE OF DESIGNED: [ERY UNITED TECHNOLOGIES CONSOLIDATED PARTNERSHIP | of 9] PERTCONSULT INTERNATIONAL i\" SCHEMA ENGINEERS AND ASSOCIATES Prone orzo "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2083,
+            "y1": 2488,
+            "y2": 2700,
+            "x2": 3061
+          },
+          "doc_text": "VARIOUS DPWH PROPOSED PROJECTS (SEE COVER SHEET) (SEE COVER SHEET) STANDARD THREE-STOREY DANTE B. POTANTE RAUL C. ASIS SCHOOL BUILDING DIRECTOR IV, BOD UNDERSECRETARY {9-CLASSROOMS }) (REVISED 3-24-57) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1831,
+            "y1": 2484,
+            "y2": 2554,
+            "x2": 2031
+          },
+          "doc_text": "REVIEWED AS TO DESIGN CONCEPT: "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 699,
+            "y1": 2334,
+            "y2": 2447,
+            "x2": 1439
+          },
+          "doc_text": "ELECTRICAL RISER DIAGRAM "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 240,
+            "y1": 2175,
+            "y2": 2254,
+            "x2": 556
+          },
+          "doc_text": "75 KVA(BOKW) GENSET, 3P «af 230V, 60H. 1800 RPM. 0.8pf "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 971,
+            "y1": 2134,
+            "y2": 2268,
+            "x2": 1373
+          },
+          "doc_text": "_ 3—-100mm? THHN WIRE + 1-22mm? TW(G) WIRE IN 65mm RSC _1-22mm* TW GROUND in 20mme PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1278,
+            "y1": 2050,
+            "y2": 2100,
+            "x2": 1419
+          },
+          "doc_text": "FIRE ALARM "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2967,
+            "y1": 2045,
+            "y2": 2421,
+            "x2": 3063
+          },
+          "doc_text": "NV x ® Ee MDP C1 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 684,
+            "y1": 2032,
+            "y2": 2143,
+            "x2": 887
+          },
+          "doc_text": "J-eRD. HLOOR LINE BES LINE "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1428,
+            "y1": 1992,
+            "y2": 2067,
+            "x2": 1873
+          },
+          "doc_text": "_2-3.5mm? THHN + 1-3.5mm?® TW(G) WIRE IN 20mme PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2082,
+            "y1": 1983,
+            "y2": 2157,
+            "x2": 2789
+          },
+          "doc_text": "FLUORESCENT LIGHT FIXTURE MOUNTING DETAIL "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1046,
+            "y1": 1977,
+            "y2": 2089,
+            "x2": 1101
+          },
+          "doc_text": "H £ I=1 1B) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 973,
+            "y1": 1938,
+            "y2": 1987,
+            "x2": 1046
+          },
+          "doc_text": "_ FPP  — "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1118,
+            "y1": 1937,
+            "y2": 2066,
+            "x2": 1299
+          },
+          "doc_text": "—ENCLOSED ACB RATING: 20AT, 50AF, { 230,2P "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 271,
+            "y1": 1923,
+            "y2": 2130,
+            "x2": 593
+          },
+          "doc_text": "g E 8 fg EI [=] 3-200mm? THHN + 2 1-30mm? TW(G) IN 90mm¢ RSC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 708,
+            "y1": 1825,
+            "y2": 2006,
+            "x2": 938
+          },
+          "doc_text": "—KWHR METER 1-14mm* TW — GROUND in 20mme¢ PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1009,
+            "y1": 1775,
+            "y2": 1914,
+            "x2": 1330
+          },
+          "doc_text": "~2-5.5mm? THHN + 1-5.5mm TW(G) IN 25mme PVC _2—14mm? THHN + 1-5.5mm TW(G) IN 40mme PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1362,
+            "y1": 1765,
+            "y2": 1952,
+            "x2": 1610
+          },
+          "doc_text": "® 4 4-2.0mm* TW IN 20mme PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2268,
+            "y1": 1724,
+            "y2": 1872,
+            "x2": 2439
+          },
+          "doc_text": "— 5/8 9 TUBULAR STEM __FLOURESCENT LIGHT FIXTURE "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 688,
+            "y1": 1716,
+            "y2": 1770,
+            "x2": 885
+          },
+          "doc_text": "[72ND FLOOR LINE | "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 330,
+            "y1": 1703,
+            "y2": 1797,
+            "x2": 650
+          },
+          "doc_text": "OVERHEAD SERVICE ENTRANCE CONNECTED TO 230V AC, 30 4 WIRE, 60 Hz "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2466,
+            "y1": 1655,
+            "y2": 1709,
+            "x2": 2646
+          },
+          "doc_text": "Ea “a y CEILING LEVEL "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1458,
+            "y1": 1637,
+            "y2": 1713,
+            "x2": 1609
+          },
+          "doc_text": "—2.0mm* TW | 20mm@ PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2293,
+            "y1": 1617,
+            "y2": 1694,
+            "x2": 2399
+          },
+          "doc_text": "i» pa) ) _ CANOPY BASE . "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1360,
+            "y1": 1499,
+            "y2": 1651,
+            "x2": 1422
+          },
+          "doc_text": "® "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1009,
+            "y1": 1495,
+            "y2": 1571,
+            "x2": 1328
+          },
+          "doc_text": "~2-5.5mm*® THHN + 1-5.5mm TW(G) IN 25mm¢ PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2966,
+            "y1": 1453,
+            "y2": 1767,
+            "x2": 3049
+          },
+          "doc_text": "| mm om | Ss Sz Saw —25;W Sfe "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 687,
+            "y1": 1389,
+            "y2": 1483,
+            "x2": 949
+          },
+          "doc_text": "i -3RD FLOOR LINE r "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1526,
+            "y1": 1251,
+            "y2": 1334,
+            "x2": 1596
+          },
+          "doc_text": "~ E-1 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3118,
+            "y1": 1229,
+            "y2": 2403,
+            "x2": 3830
+          },
+          "doc_text": "DESCRIPTION 1—18 WATTS COMPACT FLUORESCENT LAMP WITH MEDIUM BASE, KEYLESS TYPE PORCELAIN RECEPTACLE 1 x 36 WATTS FLUORESCENT LIGHTING FIXTURE, BOX TYPE 2 x 36 WATTS FLUORESCENT LIGHTING FIXTURE, BOX TYPE WITH CANOPY BASE AND STEM 1.5 FT. (450mm) LENGTH SIMILAR TO AMCO AP—-1113—1.5 OR APPROVED EQUAL 2 x 36 WATTS FLUORESCENT LIGHTING FIXTURE, BOX TYPE WALL FAN OUTLET SINGLE FOLE WALL SWITCH DUPLEX SWITCH, 2 SINGLE POLE SWITCHES ON ONE SWITCH PLATE THREE WAY WALL SWITCH 2 THREE WAY WALL SWITCHES ON ONE SWITCH PLATE FAN CONTROL SWITCH RACEWAY CONDUIT CONCEALED IN CEILING RACEWAY CONDUIT CONCEALED UNDER FLOOR PANELBOARD, MARKED AS \"LP\" CKT. BREAKER, RATING AS INDICATED DUPLEX CONVENIENCE OUTLET, GROUNDING TYPE 15 AMPS, 240 VOLT WEATHERPROOF DUPLEX CONVENIENCE OUTLET, GROUNDING TYPE,15 AMPS, 240 VOLT CIRCUIT HOMERUN ENCLOSED AIR CIRCUIT BREAKER FIRE ALARM CONTROL PANEL FIRE ALARM STATION QUTLET FIRE ALARM BELL SERVICE METER SERVICE ENTRANCE MAIN DISTRIBUTION PANELBOARD AUTOMATIC TRANSFER SWITCH "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1362,
+            "y1": 1219,
+            "y2": 1428,
+            "x2": 1607
+          },
+          "doc_text": "® 3 E-1 4—2.0mm*® TW TIN 20mme Pvc "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1619,
+            "y1": 1209,
+            "y2": 1323,
+            "x2": 2198
+          },
+          "doc_text": "SINGLE LINE DIAGRAM "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2892,
+            "y1": 1162,
+            "y2": 1284,
+            "x2": 3129
+          },
+          "doc_text": "LEGEND: "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1629,
+            "y1": 1153,
+            "y2": 1208,
+            "x2": 1856
+          },
+          "doc_text": "bre WP1 2HP, 1d, 230V "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1863,
+            "y1": 1056,
+            "y2": 1209,
+            "x2": 2163
+          },
+          "doc_text": "Td 3HP, 230, 3¢ JOCKEY PUMP WwPZ 2HP, 16 230V "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1584,
+            "y1": 985,
+            "y2": 1132,
+            "x2": 1778
+          },
+          "doc_text": "© 38, 23) FIRE PUMP / "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1863,
+            "y1": 955,
+            "y2": 1003,
+            "x2": 1943
+          },
+          "doc_text": "—F GROUND ROD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1246,
+            "y1": 869,
+            "y2": 925,
+            "x2": 1517
+          },
+          "doc_text": "400A 3P ECB (NEMA 3R) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2123,
+            "y1": 867,
+            "y2": 993,
+            "x2": 2550
+          },
+          "doc_text": "~ 40AT 3P, 240V ECB (NEMA 3R) _ 2-5.5mm? THHN + 1-3.5mm? TW(G) IN 25mme PVC - 30A ECB (NEMA 3R) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1208,
+            "y1": 785,
+            "y2": 864,
+            "x2": 1525
+          },
+          "doc_text": "3-80mm?, THHN + 1—14mm* - TW(G) 65mme RSC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1709,
+            "y1": 784,
+            "y2": 833,
+            "x2": 1848
+          },
+          "doc_text": "’ So som foun 2F N "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1850,
+            "y1": 783,
+            "y2": 834,
+            "x2": 1991
+          },
+          "doc_text": "soo 2P y "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2123,
+            "y1": 779,
+            "y2": 856,
+            "x2": 2548
+          },
+          "doc_text": "_ 3-5.5mm? THHN + 1-3.5mm? TW(G) IN 25mme RSC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1863,
+            "y1": 725,
+            "y2": 775,
+            "x2": 1975
+          },
+          "doc_text": "g gor C— "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1718,
+            "y1": 723,
+            "y2": 771,
+            "x2": 1842
+          },
+          "doc_text": "solr om 3» "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2001,
+            "y1": 713,
+            "y2": 766,
+            "x2": 2285
+          },
+          "doc_text": "—400AT/600AF 3P, 22 KAIC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1828,
+            "y1": 656,
+            "y2": 709,
+            "x2": 1909
+          },
+          "doc_text": "FPP "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2248,
+            "y1": 601,
+            "y2": 673,
+            "x2": 2354
+          },
+          "doc_text": "GROUND ROD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2005,
+            "y1": 587,
+            "y2": 687,
+            "x2": 2223
+          },
+          "doc_text": "—3—100mm? THHN + 1-22mm? TW(G) IN 65mme RSC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1037,
+            "y1": 554,
+            "y2": 624,
+            "x2": 1139
+          },
+          "doc_text": "[GROUND ROD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2388,
+            "y1": 519,
+            "y2": 640,
+            "x2": 2564
+          },
+          "doc_text": "— 22mm* TW (G) — 16mme x 3mL GROUND ROD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1534,
+            "y1": 484,
+            "y2": 556,
+            "x2": 1652
+          },
+          "doc_text": "hdl (GROUND ROD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 791,
+            "y1": 483,
+            "y2": 595,
+            "x2": 968
+          },
+          "doc_text": "1-22mm* TW(G) - 16mmeé x 3mL _ GROUND ROD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3394,
+            "y1": 438,
+            "y2": 491,
+            "x2": 3636
+          },
+          "doc_text": "+—WIRE, 230V AC, 60Hz. "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1587,
+            "y1": 368,
+            "y2": 490,
+            "x2": 1841
+          },
+          "doc_text": "400AT, 400AF, 3P, 26Qv ———1-22mm* TW (G) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 763,
+            "y1": 368,
+            "y2": 469,
+            "x2": 999
+          },
+          "doc_text": "75kVA(BOKW), 3PH,—— 230V, B60Hy, 1800RPM, 0.8pf "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2041,
+            "y1": 353,
+            "y2": 503,
+            "x2": 2127
+          },
+          "doc_text": "LPA OD LPc PPG) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2832,
+            "y1": 321,
+            "y2": 1025,
+            "x2": 3872
+          },
+          "doc_text": "1. ALL ELECTRICAL WORKS SHALL COMFLY WITH THESE PLANS AND SPECIFICATIONS. THE APPLICABLE PROVISIONS OF THE LATEST EDITION OF THE PHILIPPINE ELECTRICAL CODE (PEC), THE RULES AND REGULATIONS OF THE LOCAL ENFORCING AUTHORITY AND THE REQUIREMENTS OF THE LOCAL POWER COMPANY, 2. THE ELECTRICAL SERVICE POWER SHALL BE 3—PHASE, 4-WIRE, 230V AC, 60Hz. 3. WIRING METHOD SHALL BE AS FOLLOWS: RIGID STEEL CONDUIT OR POLYVINYL CHLORIDE CONDUIT SCHEDULE 40 SHALL BE USED AS SPECIFIED IN THE PLAN. 4. ALL WIRES SHALL BE COPPER AND THERMOPLASTIC INSULATED TYPE “THHN\" UNLESS OTHERWISE INDICATED IN THE PLAN. THE MINIMUM SIZE WIRE FOR POWER AND LIGHTING CIRCUIT HOMERUNS SHALL BE 3.5mm? AND INSULATED FOR 60OVOLTS. LIKE WISE, ALL CONDUCTORS SHALL BE COLOR-CODED. SMALLEST RACEWAY SHALL BE 15mm@. (NOMINAL) 5. ALL OUTLET BOXES SHALL BE GALVANIZED GAGE NO. 16 DEEP TYPE. 6. ALL MATERIALS TO BE USED SHALL BE BRAND NEW AND APPROVED FOR THE PARTICULAR LOCATION AND USAGE. 7. EQUIPMENT GROUNDING SYSTEM SHALL BE PROVIDED TO THE ELECTRICAL SYSTEM AS PER PHILIPPINE ELECTRICAL CODE REQUIREMENT. 8. MOUNTING HEIGHT OF WIRING DEVICES SHALL BE AS FOLLOWS: a. LIGHT SWITCH — 1.20M ABOVE FINISH FLOOR b. CONVENIENCE OUTLET — ©0.3M ABOVE FINISH FLOOR 9. ALL ELECTRICAL WORKS SHALL BE DONE UNDER THE DIRECT AND IMMEDIATE SUPERVISION OF A DULY REGISTERED ELECTRICAL ENGINEER. "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3400,
+            "y1": 687,
+            "y2": 727,
+            "x2": 3420
+          },
+          "doc_text": "1€ "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2133,
+            "y1": 319,
+            "y2": 372,
+            "x2": 2355
+          },
+          "doc_text": "1 1 (000 re "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 761,
+            "y1": 311,
+            "y2": 366,
+            "x2": 965
+          },
+          "doc_text": "GENERATOR PANEL - "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2345,
+            "y1": 306,
+            "y2": 462,
+            "x2": 2594
+          },
+          "doc_text": "——— 400AT/BOOAF, 3P, —-QLprB (@ SPACE "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2812,
+            "y1": 231,
+            "y2": 311,
+            "x2": 3270
+          },
+          "doc_text": "GENERAL NOTES "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 679,
+            "y1": 183,
+            "y2": 255,
+            "x2": 785
+          },
+          "doc_text": "- GROUND ROD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2041,
+            "y1": 86,
+            "y2": 162,
+            "x2": 2363
+          },
+          "doc_text": "3-200mm? THHN + 1-30mm? TW(G) IN 90mm¢ RSC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 738,
+            "y1": 85,
+            "y2": 219,
+            "x2": 1007
+          },
+          "doc_text": "SERVICE Sli (v) KHW METER IND "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 58,
+            "y1": 50,
+            "y2": 415,
+            "x2": 535
+          },
+          "doc_text": "NOTE: PURSUANT TO SECTION 4 OF ANNEX “A” OF THE REVISED MPLEMENTING RULES AND REGLRATION OF RA 9184, APPROVAL BY THE AUTHORIZED DPWH OFFICIALS OF DETALED ENGINEERING SURVEYS AND DESIGN UNDERTAKEN BY CONSULTANTS NETHER DRMNISHES THE RESPONSIGILITY OF THE LATTER FOR THE TECHNICAL INTEGRITY OF THE SURVEYS AND DESIGN NOR TRANSFER ANY PART OF THAT RESPONSIBILITY TO THE APPROVING OFFICIALS. THE DESIGN CONSULTANT SHALL BE HELD FULLY RESPONSIBLE FOR THE FALURE OF THE FACIITY/IES/STRUCTURES DUE TO FAULTY DESIGN EXCEPT FOR THE CHANGES MADE MTHOUT THE CONFORMITY OF THE CONSULTANTS. "
+        }
+      ]
+    }
+  },
+  {
+    "img": "2.png",
+    "img_thumb": "2_thumb.png",
+    "attributes": {
+      "entities_list": [
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1844,
+            "y1": 2601,
+            "y2": 2699,
+            "x2": 2095
+          },
+          "doc_text": "————_— JOBERHINE P. ISTURIS H—CHIEF, / < L~ BUIDINGS DIVISION, BOD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 593,
+            "y1": 2573,
+            "y2": 2701,
+            "x2": 873
+          },
+          "doc_text": "ANUELY. FANIS ELECTRICALENGINEER POSITION: PRO. ELECTRICAL ENGINEER FRC No:01210  TINNo. 132466222 PTR No.: 4856503 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3221,
+            "y1": 2570,
+            "y2": 2663,
+            "x2": 3682
+          },
+          "doc_text": "ELECTRICAL RISER DIAGRAM, FLOURE SCENT LIGHT FIXTURE MOUNTING DETAIL, SINGLE LINE DIAGRAM, GENERAL NOTES, LEGEND "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3872,
+            "y1": 2569,
+            "y2": 2665,
+            "x2": 3935
+          },
+          "doc_text": "77 45 63 Ne "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2367,
+            "y1": 2569,
+            "y2": 2678,
+            "x2": 2577
+          },
+          "doc_text": "{SEE COVER SHEET) RAUL C. ASIS UNDERSECRETARY "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2104,
+            "y1": 2569,
+            "y2": 2681,
+            "x2": 2341
+          },
+          "doc_text": "{SEE COVER SHEET) DANTE B. POTANTE DIRECTOR IV, BOD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3757,
+            "y1": 2564,
+            "y2": 2618,
+            "x2": 3831
+          },
+          "doc_text": "“50D =S8 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1294,
+            "y1": 2556,
+            "y2": 2637,
+            "x2": 1823
+          },
+          "doc_text": "REPUBLIC OF THE PHILIPPINES DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3838,
+            "y1": 2496,
+            "y2": 2545,
+            "x2": 3959
+          },
+          "doc_text": "[ SHEET NO "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3727,
+            "y1": 2495,
+            "y2": 2547,
+            "x2": 3826
+          },
+          "doc_text": "SET NO "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3156,
+            "y1": 2495,
+            "y2": 2546,
+            "x2": 3352
+          },
+          "doc_text": "SHEET CONTENTS: "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 890,
+            "y1": 2494,
+            "y2": 2651,
+            "x2": 1136
+          },
+          "doc_text": "SUBMITTED: } [24 jes [he RACINES MANAGING PARTNER "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 19,
+            "y1": 2492,
+            "y2": 2706,
+            "x2": 723
+          },
+          "doc_text": "JOINT VENTURE OF DESIGNED: [ERY UNITED TECHNOLOGIES CONSOLIDATED PARTNERSHIP | of 9] PERTCONSULT INTERNATIONAL i\" SCHEMA ENGINEERS AND ASSOCIATES Prone orzo "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2083,
+            "y1": 2488,
+            "y2": 2699,
+            "x2": 3059
+          },
+          "doc_text": "VARIOUS DPWH PROPOSED PROJECTS {SEE COVER SHEET) {SEE COVER SHEET) STANDARD THREE-STOREY DANTE B. POTANTE RAUL C. ASIS SCHOOL BUILDING (REVISED 3-24-17) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1831,
+            "y1": 2484,
+            "y2": 2554,
+            "x2": 2031
+          },
+          "doc_text": "REVIEWED AS TO DESIGN CONCEPT: "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 700,
+            "y1": 2340,
+            "y2": 2452,
+            "x2": 1441
+          },
+          "doc_text": "ELECTRICAL RISER DIAGRAM ET "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 186,
+            "y1": 2196,
+            "y2": 2273,
+            "x2": 499
+          },
+          "doc_text": "100 KVA(BOKW) GENSET, 3P «af 230V, 60H; 1800 RPM. 0.8pf "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 922,
+            "y1": 2153,
+            "y2": 2287,
+            "x2": 1321
+          },
+          "doc_text": "_3-125mm? THHN WIRE + 1-22mm? TW(G) WIRE IN 80mme RSC _1-22mm* TW GROUND in 20mm¢ PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1223,
+            "y1": 2068,
+            "y2": 2120,
+            "x2": 1369
+          },
+          "doc_text": "FIRE ALARM "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 631,
+            "y1": 2052,
+            "y2": 2161,
+            "x2": 835
+          },
+          "doc_text": "[GRP. ALOOR LINE "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2967,
+            "y1": 2045,
+            "y2": 2421,
+            "x2": 3063
+          },
+          "doc_text": "NV x ® Ee MDP C1 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1375,
+            "y1": 2013,
+            "y2": 2087,
+            "x2": 1566
+          },
+          "doc_text": "_2-3.5mm* THHN - IN 20mme PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1569,
+            "y1": 2012,
+            "y2": 2067,
+            "x2": 1820
+          },
+          "doc_text": "- 1-3.5mm* TW(G) WIRE "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1001,
+            "y1": 1988,
+            "y2": 2103,
+            "x2": 1051
+          },
+          "doc_text": "£ | g| ©) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 483,
+            "y1": 1987,
+            "y2": 2111,
+            "x2": 535
+          },
+          "doc_text": "ll El I< g © "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2082,
+            "y1": 1983,
+            "y2": 2157,
+            "x2": 2789
+          },
+          "doc_text": "FLUORESCENT LIGHT FIXTURE MOUNTING DETAIL "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 185,
+            "y1": 1962,
+            "y2": 2154,
+            "x2": 480
+          },
+          "doc_text": "£ E [=] [=] [=] 0) 2 SETS (3—125mm?2 THHN + 1-22mm? TW(G) IN 80mme RSC) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1067,
+            "y1": 1955,
+            "y2": 2086,
+            "x2": 1242
+          },
+          "doc_text": "—ENCLOSED & ACB_RATING: 20AT, 50AF, 4 230,2P "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1650,
+            "y1": 1891,
+            "y2": 1966,
+            "x2": 1837
+          },
+          "doc_text": "_ 4-2.0mm* TW IN 20mme PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 660,
+            "y1": 1846,
+            "y2": 2025,
+            "x2": 885
+          },
+          "doc_text": "—KWHR METER 1-14mm* TW — GROUND in 20mm¢ PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1587,
+            "y1": 1807,
+            "y2": 1962,
+            "x2": 1648
+          },
+          "doc_text": "® i) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 956,
+            "y1": 1793,
+            "y2": 1932,
+            "x2": 1275
+          },
+          "doc_text": "_ 2-8.0mm* THHN + 1-5.5mm TW(G) IN 32mm¢ PVC _ 2—14mm?® THHN + 1-5.5mm TW(G) IN 40mmé PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1313,
+            "y1": 1783,
+            "y2": 1969,
+            "x2": 1558
+          },
+          "doc_text": "® i 4-2.0mm* TW IN 20mm¢ PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 635,
+            "y1": 1735,
+            "y2": 1789,
+            "x2": 830
+          },
+          "doc_text": "[2ND FLOOR LINE | "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2268,
+            "y1": 1724,
+            "y2": 1872,
+            "x2": 2439
+          },
+          "doc_text": "— 5/8 9 TUBULAR STEM __FLOURESCENT LIGHT FIXTURE "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 280,
+            "y1": 1721,
+            "y2": 1816,
+            "x2": 597
+          },
+          "doc_text": "OVERHEAD SERVICE ENTRANCE CONNECTED TO 230V AC, 3# 4 WIRE, 60 Hz "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1374,
+            "y1": 1659,
+            "y2": 1733,
+            "x2": 1557
+          },
+          "doc_text": "_ 4-2.0mm* TW IN 20mme PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1655,
+            "y1": 1656,
+            "y2": 1728,
+            "x2": 1836
+          },
+          "doc_text": "_ 4-2.0mm* TW IN 20mm¢ PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2466,
+            "y1": 1655,
+            "y2": 1709,
+            "x2": 2647
+          },
+          "doc_text": "Ea “a y CEILING LEVEL "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2293,
+            "y1": 1617,
+            "y2": 1694,
+            "x2": 2399
+          },
+          "doc_text": "i» pa) ) _ CANOPY BASE . "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1587,
+            "y1": 1517,
+            "y2": 1662,
+            "x2": 1652
+          },
+          "doc_text": "® "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1307,
+            "y1": 1515,
+            "y2": 1645,
+            "x2": 1370
+          },
+          "doc_text": "® "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 956,
+            "y1": 1512,
+            "y2": 1591,
+            "x2": 1277
+          },
+          "doc_text": "_2-8.0mm* THHN + 1-5.5mm TW(G) IN 32mm¢ PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2966,
+            "y1": 1453,
+            "y2": 1767,
+            "x2": 3049
+          },
+          "doc_text": "| mm om | Ss Sz Saw —25;W Sfe "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 636,
+            "y1": 1452,
+            "y2": 1502,
+            "x2": 829
+          },
+          "doc_text": "E [~3RD FLOOR LINE "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1372,
+            "y1": 1373,
+            "y2": 1447,
+            "x2": 1553
+          },
+          "doc_text": "_ 4-2.0mm* TW IN 20mmg PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1654,
+            "y1": 1370,
+            "y2": 1443,
+            "x2": 1837
+          },
+          "doc_text": "_ 4=2.0mm\" TW IN 20mme# PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1310,
+            "y1": 1237,
+            "y2": 1382,
+            "x2": 1378
+          },
+          "doc_text": "® "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1594,
+            "y1": 1234,
+            "y2": 1368,
+            "x2": 1656
+          },
+          "doc_text": "® "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3118,
+            "y1": 1229,
+            "y2": 2403,
+            "x2": 3830
+          },
+          "doc_text": "DESCRIPTION 1—18 WATTS COMPACT FLUORESCENT LAMP WITH MEDIUM BASE, KEYLESS TYPE PORCELAIN RECEPTACLE 1 x 36 WATTS FLUORESCENT LIGHTING FIXTURE, BOX TYPE 2 x 36 WATTS FLUORESCENT LIGHTING FIXTURE, BOX TYPE WITH CANOPY BASE AND STEM 1.5 FT. (450mm) LENGTH SIMILAR TO AMCO AP—-1113—1.5 OR APPROVED EQUAL 2 x 36 WATTS FLUORESCENT LIGHTING FIXTURE, BOX TYPE WALL FAN OUTLET SINGLE FOLE WALL SWITCH DUPLEX SWITCH, 2 SINGLE POLE SWITCHES ON ONE SWITCH PLATE THREE WAY WALL SWITCH 2 THREE WAY WALL SWITCHES ON ONE SWITCH PLATE FAN CONTROL SWITCH RACEWAY CONDUIT CONCEALED IN CEILING RACEWAY CONDUIT CONCEALED UNDER FLOOR PANELBOARD, MARKED AS \"LP\" CKT. BREAKER, RATING AS INDICATED DUPLEX CONVENIENCE OUTLET, GROUNDING TYPE 15 AMPS, 240 VOLT WEATHERPROOF DUPLEX CONVENIENCE OUTLET, GROUNDING TYPE,15 AMPS, 240 VOLT CIRCUIT HOMERUN ENCLOSED AIR CIRCUIT BREAKER FIRE ALARM CONTROL PANEL FIRE ALARM STATION QUTLET FIRE ALARM BELL SERVICE METER SERVICE ENTRANCE MAIN DISTRIBUTION PANELBOARD AUTOMATIC TRANSFER SWITCH "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2087,
+            "y1": 1216,
+            "y2": 1330,
+            "x2": 2664
+          },
+          "doc_text": "SINGLE LINE DIAGRAM "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2892,
+            "y1": 1162,
+            "y2": 1284,
+            "x2": 3129
+          },
+          "doc_text": "LEGEND: "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1762,
+            "y1": 1055,
+            "y2": 1130,
+            "x2": 1971
+          },
+          "doc_text": "2 oo JUMP MOTOR #1 3 HP, 60Hz, 230V "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1984,
+            "y1": 1054,
+            "y2": 1211,
+            "x2": 2203
+          },
+          "doc_text": "Tow wor R $2 3 HP, 60H}, 2p0v "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1289,
+            "y1": 865,
+            "y2": 922,
+            "x2": 1616
+          },
+          "doc_text": "600A 3P (ECB) 240(NEMA 3R) - "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2210,
+            "y1": 861,
+            "y2": 987,
+            "x2": 2635
+          },
+          "doc_text": "~ 40AT 3P, 240vV ECB (NEMA 3R) _2-55mm? THHN + 1-5.5mm? TW(G) IN 25mm¢ RSC - 40AT 2P, 240V ECB (NEMA 3R) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1291,
+            "y1": 783,
+            "y2": 861,
+            "x2": 1614
+          },
+          "doc_text": "1-125mm® THHN + 1-22mm*- TW(G) IN BOmme@ RSC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2208,
+            "y1": 775,
+            "y2": 849,
+            "x2": 2404
+          },
+          "doc_text": "_ 3-5.5mm? THHN - 25mm¢ RSC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2424,
+            "y1": 774,
+            "y2": 829,
+            "x2": 2635
+          },
+          "doc_text": "1-5.5mm? TW(G) IN "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1748,
+            "y1": 766,
+            "y2": 907,
+            "x2": 1918
+          },
+          "doc_text": "- 401 prvi o OKAIC, ©) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1926,
+            "y1": 719,
+            "y2": 917,
+            "x2": 2156
+          },
+          "doc_text": "wi 6O00AT/6 BE 36, SHACH © | "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1803,
+            "y1": 714,
+            "y2": 764,
+            "x2": 1929
+          },
+          "doc_text": "A solr toon 3p 42 kac "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2117,
+            "y1": 709,
+            "y2": 758,
+            "x2": 2239
+          },
+          "doc_text": "IAT/GODAF 3P, 4 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2243,
+            "y1": 708,
+            "y2": 756,
+            "x2": 2308
+          },
+          "doc_text": "2 KAIC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2327,
+            "y1": 601,
+            "y2": 672,
+            "x2": 2441
+          },
+          "doc_text": "GROUND ROD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1915,
+            "y1": 587,
+            "y2": 705,
+            "x2": 2308
+          },
+          "doc_text": "3—125mm? THHN + 1—-22mm? TW(G) IN 80mm¢# RSC FPP(NEMA 3R) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1037,
+            "y1": 554,
+            "y2": 624,
+            "x2": 1139
+          },
+          "doc_text": "[GROUND ROD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2471,
+            "y1": 520,
+            "y2": 640,
+            "x2": 2646
+          },
+          "doc_text": "—22mm® TW (G) —16mme® x 3mL GROUND ROD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1534,
+            "y1": 484,
+            "y2": 556,
+            "x2": 1652
+          },
+          "doc_text": "hdl (GROUND ROD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 781,
+            "y1": 482,
+            "y2": 596,
+            "x2": 977
+          },
+          "doc_text": "1-22mm* TW(G) — 16mme x 2.4mL__ GROUND ROD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3394,
+            "y1": 438,
+            "y2": 491,
+            "x2": 3636
+          },
+          "doc_text": "+—WIRE, 230V AC, 60Hz. "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 749,
+            "y1": 371,
+            "y2": 470,
+            "x2": 997
+          },
+          "doc_text": "100kVA(BOKW), 3PH,—— 230V, 60Hz 1800RPM, 0.8pf "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1583,
+            "y1": 368,
+            "y2": 490,
+            "x2": 1841
+          },
+          "doc_text": "700AT, BOOAF, 3p, 240V | ——— 1-22mm* TW (G) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2128,
+            "y1": 353,
+            "y2": 500,
+            "x2": 2207
+          },
+          "doc_text": "LPA QT LPC CE EPP "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2832,
+            "y1": 321,
+            "y2": 1025,
+            "x2": 3872
+          },
+          "doc_text": "1. ALL ELECTRICAL WORKS SHALL COMFLY WITH THESE PLANS AND SPECIFICATIONS. THE APPLICABLE PROVISIONS OF THE LATEST EDITION OF THE PHILIPPINE ELECTRICAL CODE (PEC), THE RULES AND REGULATIONS OF THE LOCAL ENFORCING AUTHORITY AND THE REQUIREMENTS OF THE LOCAL POWER COMPANY, 2. THE ELECTRICAL SERVICE POWER SHALL BE 3—PHASE, 4-WIRE, 230V AC, 60Hz. 3. WIRING METHOD SHALL BE AS FOLLOWS: RIGID STEEL CONDUIT OR POLYVINYL CHLORIDE CONDUIT SCHEDULE 40 SHALL BE USED AS SPECIFIED IN THE PLAN. 4. ALL WIRES SHALL BE COPPER AND THERMOPLASTIC INSULATED TYPE “THHN\" UNLESS OTHERWISE INDICATED IN THE PLAN. THE MINIMUM SIZE WIRE FOR POWER AND LIGHTING CIRCUIT HOMERUNS SHALL BE 3.5mm? AND INSULATED FOR 60OVOLTS. LIKE WISE, ALL CONDUCTORS SHALL BE COLOR-CODED. SMALLEST RACEWAY SHALL BE 15mm@. (NOMINAL) 5. ALL OUTLET BOXES SHALL BE GALVANIZED GAGE NO. 16 DEEP TYPE. 6. ALL MATERIALS TO BE USED SHALL BE BRAND NEW AND APPROVED FOR THE PARTICULAR LOCATION AND USAGE. 7. EQUIPMENT GROUNDING SYSTEM SHALL BE PROVIDED TO THE ELECTRICAL SYSTEM AS PER PHILIPPINE ELECTRICAL CODE REQUIREMENT. 8. MOUNTING HEIGHT OF WIRING DEVICES SHALL BE AS FOLLOWS: a. LIGHT SWITCH — 1.20M ABOVE FINISH FLOOR b. CONVENIENCE OUTLET — ©0.3M ABOVE FINISH FLOOR 9. ALL ELECTRICAL WORKS SHALL BE DONE UNDER THE DIRECT AND IMMEDIATE SUPERVISION OF A DULY REGISTERED ELECTRICAL ENGINEER. "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3400,
+            "y1": 687,
+            "y2": 727,
+            "x2": 3420
+          },
+          "doc_text": "1€ "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 761,
+            "y1": 311,
+            "y2": 366,
+            "x2": 965
+          },
+          "doc_text": "GENERATOR PANEL - "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2221,
+            "y1": 305,
+            "y2": 455,
+            "x2": 2769
+          },
+          "doc_text": "[rou oroNarzzary 700AT/BOCAF, 3P 65 KAIC 2P P = LPB 2p I ES I @ sPacE "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2812,
+            "y1": 231,
+            "y2": 311,
+            "x2": 3270
+          },
+          "doc_text": "GENERAL NOTES "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 679,
+            "y1": 183,
+            "y2": 255,
+            "x2": 785
+          },
+          "doc_text": "- GROUND ROD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2057,
+            "y1": 87,
+            "y2": 165,
+            "x2": 2417
+          },
+          "doc_text": "? SETS (3—125mm? THHN + 1-22mm? TW(G) IN 80mme RSC) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 738,
+            "y1": 85,
+            "y2": 219,
+            "x2": 1007
+          },
+          "doc_text": "SERVICE Sli (v) KHW METER IND "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 58,
+            "y1": 50,
+            "y2": 415,
+            "x2": 535
+          },
+          "doc_text": "NOTE: PURSUANT TO SECTION 4 OF ANNEX “A” OF THE REVISED MPLEMENTING RULES AND REGLRATION OF RA 9184, APPROVAL BY THE AUTHORIZED DPWH OFFICIALS OF DETALED ENGINEERING SURVEYS AND DESIGN UNDERTAKEN BY CONSULTANTS NETHER DRMNISHES THE RESPONSIGILITY OF THE LATTER FOR THE TECHNICAL INTEGRITY OF THE SURVEYS AND DESIGN NOR TRANSFER ANY PART OF THAT RESPONSIBILITY TO THE APPROVING OFFICIALS. THE DESIGN CONSULTANT SHALL BE HELD FULLY RESPONSIBLE FOR THE FALURE OF THE FACIITY/IES/STRUCTURES DUE TO FAULTY DESIGN EXCEPT FOR THE CHANGES MADE MTHOUT THE CONFORMITY OF THE CONSULTANTS. "
+        }
+      ]
+    }
+  },
+  {
+    "img": "3.png",
+    "img_thumb": "3_thumb.png",
+    "attributes": {
+      "entities_list": [
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1845,
+            "y1": 2574,
+            "y2": 2699,
+            "x2": 2097
+          },
+          "doc_text": "aad JOS, INE P. ISTURIS A J CHEF, BUILDINGS DIVISISNYBOD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3871,
+            "y1": 2569,
+            "y2": 2666,
+            "x2": 3936
+          },
+          "doc_text": "7 34 63 . "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2367,
+            "y1": 2569,
+            "y2": 2678,
+            "x2": 2577
+          },
+          "doc_text": "{SEE COVER SHEET) RAUL C. ASIS UNDERSECRETARY "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2104,
+            "y1": 2569,
+            "y2": 2681,
+            "x2": 2341
+          },
+          "doc_text": "{SEE COVER SHEET) DANTE B. POTANTE DIRECTOR IV, BOD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 593,
+            "y1": 2569,
+            "y2": 2700,
+            "x2": 873
+          },
+          "doc_text": "doc OCAMPO PLUMBING DESIGN POSITION: SANITARY ENGINEER FRC No000837  TINNo. 13167822 PTR No.: 2181627 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1294,
+            "y1": 2556,
+            "y2": 2637,
+            "x2": 1823
+          },
+          "doc_text": "REPUBLIC OF THE PHILIPPINES DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3838,
+            "y1": 2496,
+            "y2": 2545,
+            "x2": 3959
+          },
+          "doc_text": "[ SHEET NO "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3728,
+            "y1": 2495,
+            "y2": 2547,
+            "x2": 3826
+          },
+          "doc_text": "SET NO "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2687,
+            "y1": 2495,
+            "y2": 2697,
+            "x2": 3059
+          },
+          "doc_text": "& LOCATION / BARANGAY: VARIOUS DPWH PROPOSED PROJECTS STANDARD THREE-STOREY SCHOOL BUILDING { 15-CLASSROOMS } (REVISED 3-24-17) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3155,
+            "y1": 2494,
+            "y2": 2694,
+            "x2": 3692
+          },
+          "doc_text": "SHEET CONTENTS: GEN. NOTES & LEGEND, MISC. DETAILS TYP. SEPTIC TANK DETAIL, SEPTIC TANK DIMENSION UNDERGROUND WATER TANK DETAIL UNDERGROUND WATER TANK CAPACITY UNDERGROUND WATER TANK DIMENSION ELEVATED WATER TANK DIMENSION "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 889,
+            "y1": 2494,
+            "y2": 2650,
+            "x2": 1152
+          },
+          "doc_text": "SUBMITTED: PA ~RACINES MANAGING PARTNER "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 19,
+            "y1": 2492,
+            "y2": 2706,
+            "x2": 721
+          },
+          "doc_text": "JOINT VENTURE OF DESIGNED: [ERY UNITED TECHNOLOGIES CONSOLIDATED PARTNERSHIP CY IP] PERTCONSULT INTERNATIONAL lied SCHEMA ENGINEERS AND ASSOCIATES Eri "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2083,
+            "y1": 2488,
+            "y2": 2546,
+            "x2": 2683
+          },
+          "doc_text": "RECOMMENDING APPROVAL | APPROVED: {FOR ISSUANCE) | PROJECT "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1832,
+            "y1": 2484,
+            "y2": 2555,
+            "x2": 2031
+          },
+          "doc_text": "REVIEWED AS TO DESIGN CONCEPT: "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 797,
+            "y1": 2426,
+            "y2": 2493,
+            "x2": 862
+          },
+          "doc_text": "A P-1 _ "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 865,
+            "y1": 2393,
+            "y2": 2482,
+            "x2": 1242
+          },
+          "doc_text": "ROOF DRAIN DETAIL "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1785,
+            "y1": 2384,
+            "y2": 2474,
+            "x2": 2254
+          },
+          "doc_text": "SEPTIC TANK DIMENSION "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2858,
+            "y1": 2356,
+            "y2": 2460,
+            "x2": 3764
+          },
+          "doc_text": "11 ) ELEVATED WATER TANK CAPACITY (DOMESTIC) P-1 J scae NTS "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 722,
+            "y1": 2248,
+            "y2": 2337,
+            "x2": 869
+          },
+          "doc_text": "THREADED OUTLET OR t— CAULK TYPE "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2151,
+            "y1": 2233,
+            "y2": 2342,
+            "x2": 2210
+          },
+          "doc_text": "1.50 1.80 2.00 2.00 5 an "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2236,
+            "y1": 2230,
+            "y2": 2368,
+            "x2": 2301
+          },
+          "doc_text": "1.50 1.80 1.50 1.80 2.00 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1968,
+            "y1": 2212,
+            "y2": 2364,
+            "x2": 2027
+          },
+          "doc_text": "hl 3.30 4.80 6.50 6.60 7.00 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1674,
+            "y1": 2211,
+            "y2": 2362,
+            "x2": 1933
+          },
+          "doc_text": "3-STOREY / 3 CLASSROOM 3-STOREY / 6 CLASSROOM 3-STOREY / 9 CLASSROOM 3-STOREY / 12 CLASSROOM 3-STOREY / 15 CLASSROOM "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1211,
+            "y1": 2204,
+            "y2": 2343,
+            "x2": 1364
+          },
+          "doc_text": "EE WATER —'PROCFING MEMBRANE — CONCRETE ROOF DECK "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2052,
+            "y1": 2188,
+            "y2": 2364,
+            "x2": 2118
+          },
+          "doc_text": "Ww 2.00 2.50 2.50 3.00 3.50 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3392,
+            "y1": 2169,
+            "y2": 2322,
+            "x2": 3507
+          },
+          "doc_text": "CAPACITY 1350 L 2700 L 4050 L 5400 L "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3106,
+            "y1": 2167,
+            "y2": 2345,
+            "x2": 3367
+          },
+          "doc_text": "DESIGNATION 3-STOREY / 3 CLASSROOM 3-STOREY / 6 CLASSROOM 3-STOREY / 9 CLASSROOM 3-STOREY / 12 CLASSROOM 3-STOREY / 15 CLASSROOM "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1213,
+            "y1": 2100,
+            "y2": 2151,
+            "x2": 1321
+          },
+          "doc_text": "GRAVEL "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 44,
+            "y1": 2093,
+            "y2": 2458,
+            "x2": 521
+          },
+          "doc_text": "NOTE: PURSUANT TO SECTION 4 OF ANNEX \"A\" OF THE REVISED QIPLEMENTING RULES AND REGULATION OF RA 9184, APPROVAL BY THE AUTHORIZED DPW OFFICIALS OF DETALED ENGINEERING SURVEYS AND DESKN UNDERTAKEN BY CONSULTANTS NETTHER DIMINISHES THE RESPONSIBILITY OF THE LATTER FOR THE TECHNICAL INTEGRITY OF THE SURVEYS AND DESIGN NOR TRANSFER ANY PART OF THAT RESPONSIBLITY TO THE APPROVING OFFICIALS. THE DESIGN CONSULTANT SHALL BE HELD FULLY RESPONSBLE FOR THE FAILURE OF THE FAGILITY/IES/STRUCTURES DUE TO FAULTY DESIGN EXCEPT FOR THE CHANGES MADE WITHOUT THE CONFORMITY OF THE CONSULTANTS. "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1215,
+            "y1": 2026,
+            "y2": 2096,
+            "x2": 1340
+          },
+          "doc_text": "—1DOME STRAINER "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 43,
+            "y1": 1939,
+            "y2": 1987,
+            "x2": 167
+          },
+          "doc_text": "PLUMBING FI. "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1490,
+            "y1": 1920,
+            "y2": 1993,
+            "x2": 1703
+          },
+          "doc_text": "12mm @ BARS BW _ © 200mm 0.C. "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2836,
+            "y1": 1919,
+            "y2": 2014,
+            "x2": 3813
+          },
+          "doc_text": ") UNDERGROUND WATER TANK DIMENSION (DOMESTIC) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2476,
+            "y1": 1917,
+            "y2": 1990,
+            "x2": 2611
+          },
+          "doc_text": ", READY—MIX CONCRETE "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1785,
+            "y1": 1900,
+            "y2": 2171,
+            "x2": 2319
+          },
+          "doc_text": "PLAIN CEMENT PLASTERED FINISH WITH WATERPROOFING COMPOUND (TO BE APPLIED WITH AT LEAST TWO COATS OF WATERPROOFING MEMBRANE) SECTION TYPICAL SEPTIC TANK DETAIL SCALE NTS "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 798,
+            "y1": 1871,
+            "y2": 1965,
+            "x2": 1259
+          },
+          "doc_text": "2 ) FLOOR DRAIN DETAIL P-1 J scae NTS "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1717,
+            "y1": 1800,
+            "y2": 1858,
+            "x2": 1893
+          },
+          "doc_text": "SLOPE=1 /10. E1710 =I "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1964,
+            "y1": 1785,
+            "y2": 1839,
+            "x2": 2130
+          },
+          "doc_text": "_ SLOPE=1/10 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1444,
+            "y1": 1769,
+            "y2": 1820,
+            "x2": 1516
+          },
+          "doc_text": "* CHB + "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3514,
+            "y1": 1755,
+            "y2": 1868,
+            "x2": 3577
+          },
+          "doc_text": "1.40 1.50 1.70 1.80 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2214,
+            "y1": 1730,
+            "y2": 1800,
+            "x2": 2340
+          },
+          "doc_text": "LEACHING L CHAMBER "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1806,
+            "y1": 1717,
+            "y2": 1768,
+            "x2": 2037
+          },
+          "doc_text": "DIGESTION CHAMBER "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3418,
+            "y1": 1716,
+            "y2": 1869,
+            "x2": 3487
+          },
+          "doc_text": "hid 1.60 2.50 2.80 3.00 3.00 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3325,
+            "y1": 1714,
+            "y2": 1871,
+            "x2": 3393
+          },
+          "doc_text": "Lr 2.90 3.00 3.90 4.30 5.00 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3062,
+            "y1": 1692,
+            "y2": 1867,
+            "x2": 3320
+          },
+          "doc_text": "DESIGNATION 3-STOREY / 3 CLASSROOM 3-STOREY / 6 CLASSROOM 3-STOREY / 9 CLASSROOM 3-STOREY / 12 CLASSROOM 3-STOREY / 15 CLASSROOM "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1569,
+            "y1": 1668,
+            "y2": 1721,
+            "x2": 1659
+          },
+          "doc_text": "———— INLET "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1849,
+            "y1": 1623,
+            "y2": 1677,
+            "x2": 1980
+          },
+          "doc_text": "ARR SPACE "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2409,
+            "y1": 1599,
+            "y2": 1912,
+            "x2": 2695
+          },
+          "doc_text": "12mm © VERT. BARS @ 300mm 37> oc. ouTLET ———6\" CHB 4\" CHB W/ PLAN ——— CEMENT PLASTERED FINISH 10mm @ HOR. “BARS @ 400mm oc. "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 805,
+            "y1": 1596,
+            "y2": 1850,
+            "x2": 1238
+          },
+          "doc_text": "SCHEDULE OF DIMENSIONS SIZE IN EEE "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1512,
+            "y1": 1576,
+            "y2": 1675,
+            "x2": 1568
+          },
+          "doc_text": "a "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1900,
+            "y1": 1563,
+            "y2": 1613,
+            "x2": 1961
+          },
+          "doc_text": "MH "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2204,
+            "y1": 1562,
+            "y2": 1692,
+            "x2": 2318
+          },
+          "doc_text": "MH SE — 28 © 8 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 924,
+            "y1": 1530,
+            "y2": 1587,
+            "x2": 1081
+          },
+          "doc_text": "SECTION "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1650,
+            "y1": 1520,
+            "y2": 1572,
+            "x2": 1709
+          },
+          "doc_text": "159 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2837,
+            "y1": 1487,
+            "y2": 1586,
+            "x2": 3792
+          },
+          "doc_text": ") UNDERGROUND WATER TANK CAPACITY (DOMESTIC) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1977,
+            "y1": 1386,
+            "y2": 1494,
+            "x2": 2310
+          },
+          "doc_text": "MANHOLE COVER (TYP) WITH STEEL FRAME PROTECTION PLAN "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1537,
+            "y1": 1371,
+            "y2": 1465,
+            "x2": 1713
+          },
+          "doc_text": "10mm@ TEMP. BARS — ® 200mm O.C. "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2403,
+            "y1": 1253,
+            "y2": 1305,
+            "x2": 2511
+          },
+          "doc_text": "= de OUTLET "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3208,
+            "y1": 1250,
+            "y2": 1442,
+            "x2": 3328
+          },
+          "doc_text": "CAPACITY 5400 L 10800 L 16200 L 21600 L 27000 L "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3346,
+            "y1": 1241,
+            "y2": 1449,
+            "x2": 3729
+          },
+          "doc_text": "RISER / DF / "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1183,
+            "y1": 1237,
+            "y2": 1333,
+            "x2": 1382
+          },
+          "doc_text": "WATER PROOFING MEMBRANE (BY OTHERS) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1382,
+            "y1": 1234,
+            "y2": 1349,
+            "x2": 1519
+          },
+          "doc_text": "12mm@ BOT. BARS ® 200mm 0.C. "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2169,
+            "y1": 1222,
+            "y2": 1299,
+            "x2": 2391
+          },
+          "doc_text": "mH | Tf |LEAC ING Cl BER "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1567,
+            "y1": 1173,
+            "y2": 1226,
+            "x2": 1653
+          },
+          "doc_text": "Eat INLET "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 743,
+            "y1": 1162,
+            "y2": 1228,
+            "x2": 865
+          },
+          "doc_text": "CONCRETE TOPPINGS "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1181,
+            "y1": 1140,
+            "y2": 1235,
+            "x2": 1427
+          },
+          "doc_text": "FLOOR DRAIN SQUARE STRAINER W/ SLQT OPENING "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1896,
+            "y1": 1136,
+            "y2": 1187,
+            "x2": 1960
+          },
+          "doc_text": "MH "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 939,
+            "y1": 1097,
+            "y2": 1153,
+            "x2": 1046
+          },
+          "doc_text": "PLAN "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1815,
+            "y1": 1064,
+            "y2": 1119,
+            "x2": 2048
+          },
+          "doc_text": "DIGESTION CHAMBER "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2167,
+            "y1": 1055,
+            "y2": 1131,
+            "x2": 2385
+          },
+          "doc_text": "12] wm LEACHING CHAMBER A. "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 31,
+            "y1": 1054,
+            "y2": 2064,
+            "x2": 467
+          },
+          "doc_text": "LEGEND: WATER DISTRIBUTION SYSTEM ———] [wma Wo eave [1 Fv |roaTvalvE [| wsp |wET STAND PIPE [| psp [DRY STAND PIPE [| FHC [FIRE HOSE CABINET [| Bl |BLACKIRONPIPE WASTE, SEWER & VENT SYSTEM [———1  [sANITARY LINE [1]  [|veNTLINE © | ro [roorammon BB || SHOWER/FLOOR DRAIN [ [vs |ventstack ss sonoma [| vAC |VENT ACROSS CEILING I 2 [| pvc [POLYVINYL CHLORIDE we Jwerere sr fourm [| vTR [VENT THRU ROOF [| st |sepTIc TANK [| Ac |AIRCHAMBER WASTE, SEWER & VENT SYSTEM [====—==] [DRAINAGE LINE CATCH BASIN CORRIDOR DRAIN PLUMBING FIXTURES Cn Jaen [| wc |waTEr cLOSET [| EwT [ELEVATED WATER TANK "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2861,
+            "y1": 1037,
+            "y2": 1134,
+            "x2": 3828
+          },
+          "doc_text": "TYP. UNDERGROUND WATER TANK DETAIL (DOMESTIC) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1090,
+            "y1": 990,
+            "y2": 1084,
+            "x2": 1331
+          },
+          "doc_text": "FLOOR DRAIN SQUARE “STRAINER W/ SLOT OPENING "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 903,
+            "y1": 958,
+            "y2": 1023,
+            "x2": 1085
+          },
+          "doc_text": "nininanng "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 39,
+            "y1": 916,
+            "y2": 962,
+            "x2": 97
+          },
+          "doc_text": "18. "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3664,
+            "y1": 901,
+            "y2": 978,
+            "x2": 3936
+          },
+          "doc_text": "=5 [200] 200 200] 00175] | "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1651,
+            "y1": 899,
+            "y2": 953,
+            "x2": 1708
+          },
+          "doc_text": "5 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3419,
+            "y1": 828,
+            "y2": 879,
+            "x2": 3567
+          },
+          "doc_text": "Z i "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1385,
+            "y1": 788,
+            "y2": 885,
+            "x2": 1856
+          },
+          "doc_text": "4 ) AIR CHAMBER DETAIL P-1 SCALE NTS "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2098,
+            "y1": 787,
+            "y2": 878,
+            "x2": 2459
+          },
+          "doc_text": "CLEAN-OUT DETAIL "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 848,
+            "y1": 744,
+            "y2": 801,
+            "x2": 1004
+          },
+          "doc_text": "SECTION "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 37,
+            "y1": 704,
+            "y2": 758,
+            "x2": 98
+          },
+          "doc_text": "12 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2475,
+            "y1": 700,
+            "y2": 809,
+            "x2": 2670
+          },
+          "doc_text": "—~ SLAB SOFFIT — LATERAL/BRANCH SOIL PIPE (SP) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2222,
+            "y1": 696,
+            "y2": 759,
+            "x2": 2392
+          },
+          "doc_text": "SECTION "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3511,
+            "y1": 683,
+            "y2": 807,
+            "x2": 3932
+          },
+          "doc_text": "vib [FERIEES] Ev FN I [sofssolizs | | [ [ T [| "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2708,
+            "y1": 682,
+            "y2": 976,
+            "x2": 3490
+          },
+          "doc_text": "PARTICULARS [2.40[2.593.00]3.50[3.50}.00(4 505.00] 5011. 1 1 [THICKNESS TMM |200]200]200[225]225/250[250[250] | [TOP SLAB, ALONG LONG SPAN, 12M | 200[175]175(150| 150] 125] 125112] | _ moncionGseaN owe | | | | [ | | | [a0 [BOTTOM SLAB, ALONG LONG SPAN, 12VMMJ| 200|200| 175175] 175150] 150[150] |  monconesean Mg | | | | [ | | | [ao | wemcatmaRs, ta | | | | | | | [| | [ vorzowmmarsizwv | | | | | | | | | | "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1006,
+            "y1": 653,
+            "y2": 719,
+            "x2": 1096
+          },
+          "doc_text": "OUTLET PIPE "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 703,
+            "y1": 564,
+            "y2": 711,
+            "x2": 843
+          },
+          "doc_text": "== neg "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2930,
+            "y1": 544,
+            "y2": 603,
+            "x2": 3044
+          },
+          "doc_text": "PLAN "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1515,
+            "y1": 544,
+            "y2": 598,
+            "x2": 1687
+          },
+          "doc_text": "~~) — FROM SUPPLY "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1701,
+            "y1": 543,
+            "y2": 597,
+            "x2": 1869
+          },
+          "doc_text": "~~ FROM SUPPLY "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2476,
+            "y1": 539,
+            "y2": 642,
+            "x2": 2634
+          },
+          "doc_text": "_, CEILING CLEAN OUT —HANGER ROD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3457,
+            "y1": 538,
+            "y2": 599,
+            "x2": 3632
+          },
+          "doc_text": "SECTION "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2121,
+            "y1": 530,
+            "y2": 586,
+            "x2": 2181
+          },
+          "doc_text": "FFL FR "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1958,
+            "y1": 525,
+            "y2": 571,
+            "x2": 2017
+          },
+          "doc_text": "100 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2036,
+            "y1": 519,
+            "y2": 573,
+            "x2": 2093
+          },
+          "doc_text": "110 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1935,
+            "y1": 415,
+            "y2": 500,
+            "x2": 2441
+          },
+          "doc_text": "SLAB I Ll > SECTION "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1490,
+            "y1": 406,
+            "y2": 505,
+            "x2": 1651
+          },
+          "doc_text": "=} TO FIXTURES 1158 CWL "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1680,
+            "y1": 405,
+            "y2": 505,
+            "x2": 1843
+          },
+          "doc_text": "1 TO FIXTURES — 208 CWL "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 863,
+            "y1": 399,
+            "y2": 933,
+            "x2": 1379
+          },
+          "doc_text": "| | 16mm@ x 450mm LG. ANCHOR BOLT 2 EACH — SIDE 1, 12mm 2 ® 330mm 1 VERT. BARS x 1 12mm 2 @ 330mm 17 W | = HOR. BARS < < J==\"'2-16mm@ ADDITIONAL = NI DIAGONAL BARS | UT 2—16mm@ ADDITIONAL | | quner HOR. BARS (TYPICAL) I. a J 2—16mm GADDITIONAL — NE VERT. BARS (TYPICAL) SECTION 100mm THK 12mm @® 200mm EACHWAY CATCH BASIN DETAIL SCALE NTS "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3122,
+            "y1": 327,
+            "y2": 378,
+            "x2": 3205
+          },
+          "doc_text": "SUMP "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1481,
+            "y1": 317,
+            "y2": 389,
+            "x2": 1610
+          },
+          "doc_text": "~F 208 AR ' CHAMBER "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1680,
+            "y1": 316,
+            "y2": 387,
+            "x2": 1804
+          },
+          "doc_text": "|, 208 AR CHAMBER "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 844,
+            "y1": 315,
+            "y2": 415,
+            "x2": 1005
+          },
+          "doc_text": "PLAN S100. 400 100, "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2177,
+            "y1": 270,
+            "y2": 319,
+            "x2": 2294
+          },
+          "doc_text": "= "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1844,
+            "y1": 263,
+            "y2": 370,
+            "x2": 2162
+          },
+          "doc_text": "SLAB sore |i) SPOT DETAIL "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1007,
+            "y1": 259,
+            "y2": 400,
+            "x2": 1289
+          },
+          "doc_text": "OUTLET PIPE AN CONCRETE MANHOLE COVER WITH 16mm LIFTING HANDLE "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3806,
+            "y1": 246,
+            "y2": 485,
+            "x2": 3965
+          },
+          "doc_text": "ALONG “LONG SPAN ALONG “SHORT SPAN VERTICAL BARS — HORIZONTAL BARS "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1406,
+            "y1": 246,
+            "y2": 299,
+            "x2": 1510
+          },
+          "doc_text": "CAPPED = "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 761,
+            "y1": 237,
+            "y2": 311,
+            "x2": 843
+          },
+          "doc_text": "INI PIPE "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2892,
+            "y1": 233,
+            "y2": 348,
+            "x2": 3140
+          },
+          "doc_text": "MANHOLE COVER (TYP.) WITH STEEL FRAME PROTECTION & r= LADDER RUNG | "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1597,
+            "y1": 183,
+            "y2": 236,
+            "x2": 1705
+          },
+          "doc_text": "CAPPED mn "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2310,
+            "y1": 131,
+            "y2": 397,
+            "x2": 2707
+          },
+          "doc_text": "PLAN COUNTER SUNK FLOOR CLEAN OUT CONCRETE TOPPINGS | [WATER PROOFING MEMBRANE FEY, cen Rob 1 ~ f LATERAL/BRANCH A [| ISOL PIPE (P) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3710,
+            "y1": 20,
+            "y2": 154,
+            "x2": 3948
+          },
+          "doc_text": "NOTE : ALL MANHOLE SHOULD BE 0.604 SIMILAR TO METMA PRODUCTS OR APPROVED EQUAL "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2429,
+            "y1": 19,
+            "y2": 97,
+            "x2": 2624
+          },
+          "doc_text": "| LATERAL /BRANCH SOIL PIPE (SP) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1843,
+            "y1": 14,
+            "y2": 175,
+            "x2": 2084
+          },
+          "doc_text": "WATER PROOFING MEMBRANE CONCRETE TOPPINGS — COUNTER SUNK FLOOR CLEAN OUT "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2140,
+            "y1": 9,
+            "y2": 104,
+            "x2": 2304
+          },
+          "doc_text": "COUNTER SUNK FLOOR CLEAN OUT oo "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 25,
+            "y1": 8,
+            "y2": 1023,
+            "x2": 647
+          },
+          "doc_text": "GENERAL NOTES : 1 ALL PLUMBING WORKS TO BE DONE AND SIZES OF PIPES TO BE USED SHALL BE IN ACCORDANCE WITH THE LATEST EDITION OF THE NATIONAL PLUMBING CODE OF THE PHILIPPINES AND LOCAL REGULATIONS AND ORDINANCES. 2 ALL PIPES SHALL BE INSTALLED AS INDICATED IN THE WORKING DRAWINGS. ANY RELOCATION REQUIRED FOR PROPER EXECUTION OF OTHER TRADES SHALL BE UPON THE APPROVAL OF THE SANITARY ENGINEER 3 WRITTEN DIMENSIONS SHALL TAKE PRECEDENCE OVER SCALED DIMENSIONS. 4 ALL PIPES SHALL BE PROVIDED Wf PROPER HANGER AND SUPPORT 5 ALL FIXTURES SHALL BE VENTED INDIVIDUALLY AND WATERLINES SHALL BE VALVE BY GROUP 8. UNLESS OTHERWISE SPECIFIED, ALL PLUMBING FIXTURES SHALL BE PROPERLY VENTED. MAXIMUM DISTANCE OF VENTILATION FROM FIXTURES SHALL BE 1.50 m MEASURED ALONG THE LENGTH OF PIPE. 7. ALL PLUMBING FITTINGS SHALL BE ACCESSIBLE FOR MAINTENANCE. PROVIDE MANHOLE IF SUCH INSTALLATIONS ARE INSIDE THE CEILING. 8. ALL CHANGES IN DIRECTIONS SHALL BE MADE BY THE APPROPRIATE USE OF FORTY FIVE (45) WYE LONG SWEEP QUARTER BEND. ONE EIGHT WHEN THE CHANGE OF FLOW IS FROM HORIZONTAL TO VERTICAL A SINGLE BEND COMBINATION MAY BE USED ONLY ON VENT PIPE. 9 NO DOUBLE HUB OR DOUBLE TEE BRANCH SHALL BE USED ON HORIZONTAL SOIL OR WASTE LINES. 10. PROVIDE PIPE SLEEVES AT WALL, COLUMNS OR SLAB TO PROTECT FROM BREAKAGE. \" ALL EXPOSED PIPINGS AND FITTINGS IN THE AREAS SHALL BE CHROME PLATED. 12 THE BRAND AND OTHER DETAILED PLUMBING FIXTURES SHALL BE IN ACCORDANCE WITH THE SCHEDULE FURNISHED BY THE ARCHITECT. 13. GATE VALVE SHALL BE BRONZE BODY, SOLID WEDGE TYPE, SCREWED OR FLANGE END. 14. USE POLYPROPYLENE RANDOM, TYPE 3 PN20 FOR ALL WATER PIPING SYSTEM 15. USE uPVC SANITARY PIPING SYSTEM SERIES 1000 FOR 100 @ AND SMALLER AND GRAVITY SEWER MAIN uPVC PIPING SYSTEM FOR 150 @ AND BIGGER. 18. ENGINEER-IN-CHARGE TO VERIFY ACTUAL LOCATION AND ELEVATION OF STREET DRAINAGE, STREET SEWER AND STREET WATER MAINS FOR CONNECTION BEF ORE CONSTRUCTION. "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 846,
+            "y1": 1,
+            "y2": 78,
+            "x2": 1005
+          },
+          "doc_text": "100400100, "
+        }
+      ]
+    }
+  },
+  {
+    "img": "4.png",
+    "img_thumb": "4_thumb.png",
+    "attributes": {
+      "entities_list": [
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1844,
+            "y1": 2601,
+            "y2": 2699,
+            "x2": 2095
+          },
+          "doc_text": "————_— JOBERHINE P. ISTURIS H—CHIEF, / < L~ BUIDINGS DIVISION, BOD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 593,
+            "y1": 2573,
+            "y2": 2701,
+            "x2": 873
+          },
+          "doc_text": "ANUELY. FANIS ELECTRICALENGINEER POSITION: PRO. ELECTRICAL ENGINEER FRC No:01210  TINNo. 132466222 PTR No.: 4856503 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3221,
+            "y1": 2570,
+            "y2": 2663,
+            "x2": 3682
+          },
+          "doc_text": "ELECTRICAL RISER DIAGRAM, FLOURE SCENT LIGHT FIXTURE MOUNTING DETAIL, SINGLE LINE DIAGRAM, GENERAL NOTES, LEGEND "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3872,
+            "y1": 2569,
+            "y2": 2665,
+            "x2": 3935
+          },
+          "doc_text": "7 49 63 Ne "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2367,
+            "y1": 2569,
+            "y2": 2678,
+            "x2": 2577
+          },
+          "doc_text": "{SEE COVER SHEET) RAUL C. ASIS UNDERSECRETARY "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2104,
+            "y1": 2569,
+            "y2": 2681,
+            "x2": 2341
+          },
+          "doc_text": "{SEE COVER SHEET) DANTE B. POTANTE DIRECTOR IV, BOD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3757,
+            "y1": 2564,
+            "y2": 2618,
+            "x2": 3831
+          },
+          "doc_text": "“50D =S8 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1294,
+            "y1": 2556,
+            "y2": 2637,
+            "x2": 1823
+          },
+          "doc_text": "REPUBLIC OF THE PHILIPPINES DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3838,
+            "y1": 2496,
+            "y2": 2545,
+            "x2": 3959
+          },
+          "doc_text": "[ SHEET NO "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3727,
+            "y1": 2495,
+            "y2": 2547,
+            "x2": 3826
+          },
+          "doc_text": "SET NO "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3156,
+            "y1": 2495,
+            "y2": 2546,
+            "x2": 3352
+          },
+          "doc_text": "SHEET CONTENTS: "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 890,
+            "y1": 2494,
+            "y2": 2651,
+            "x2": 1136
+          },
+          "doc_text": "SUBMITTED: } [24 jes [he RACINES MANAGING PARTNER "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 19,
+            "y1": 2492,
+            "y2": 2706,
+            "x2": 724
+          },
+          "doc_text": "JOINT VENTURE OF DESIGNED: [ERY UNITED TECHNOLOGIES CONSOLIDATED PARTNERSHIP | 9] PERTCONSULT INTERNATIONAL id SCHEMA ENGINEERS AND ASSOCIATES Er "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2083,
+            "y1": 2488,
+            "y2": 2698,
+            "x2": 3059
+          },
+          "doc_text": "VARIOUS DPWH SEE COVER SHEET) SEE COVER SHEET) PROPOSED PROJECTS ¢ ) { STANDARD THREE-STOREY DANTE B. POTANTE RAUL C. ASIS SCHOOL BUILDING TAT {REVISED 3-24-17) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1831,
+            "y1": 2484,
+            "y2": 2554,
+            "x2": 2031
+          },
+          "doc_text": "REVIEWED AS TO DESIGN CONCEPT: "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 700,
+            "y1": 2313,
+            "y2": 2428,
+            "x2": 1441
+          },
+          "doc_text": "ELECTRICAL RISER DIAGRAM ET "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 112,
+            "y1": 2224,
+            "y2": 2321,
+            "x2": 412
+          },
+          "doc_text": "100 KVA(BOKW) GENSET, 3P « 230V, 60H; 1800 RPM, 0.8pf "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 846,
+            "y1": 2182,
+            "y2": 2315,
+            "x2": 1250
+          },
+          "doc_text": "_ 3—150mm? THHN WIRE + 1—-22mm? TW(G) WIRE IN 80mm RSC _1-22mm* TW GROUND in 20mm# PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1154,
+            "y1": 2097,
+            "y2": 2148,
+            "x2": 1295
+          },
+          "doc_text": "FIRE ALARM "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 561,
+            "y1": 2081,
+            "y2": 2185,
+            "x2": 762
+          },
+          "doc_text": "GRP. ALOOR LINE FIN} FUOOR LINE "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1304,
+            "y1": 2041,
+            "y2": 2114,
+            "x2": 1496
+          },
+          "doc_text": "_2-3.5mm? THHN - IN 20mms PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1519,
+            "y1": 2040,
+            "y2": 2096,
+            "x2": 1751
+          },
+          "doc_text": "1-3.5mm* TW(G) WIRE "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2903,
+            "y1": 2022,
+            "y2": 2421,
+            "x2": 2991
+          },
+          "doc_text": "X ® Ee MDP J "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 927,
+            "y1": 2017,
+            "y2": 2131,
+            "x2": 978
+          },
+          "doc_text": "| £ I=] 0) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 994,
+            "y1": 1999,
+            "y2": 2114,
+            "x2": 1139
+          },
+          "doc_text": "“enclose | ACB_RATING: 20AT, 50AF, 230,2P "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 853,
+            "y1": 1986,
+            "y2": 2035,
+            "x2": 922
+          },
+          "doc_text": "FPP IF "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1937,
+            "y1": 1982,
+            "y2": 2158,
+            "x2": 2642
+          },
+          "doc_text": "FLUORESCENT LIGHT FIXTURE MOUNTING DETAIL "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 113,
+            "y1": 1973,
+            "y2": 2181,
+            "x2": 468
+          },
+          "doc_text": "E £ 8 g ii: 2 SETS (3-125mm? THHN| 2 + 1-22mm? TW(G) IN 80mms$ RSC) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2916,
+            "y1": 1961,
+            "y2": 2017,
+            "x2": 2997
+          },
+          "doc_text": "wp "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1298,
+            "y1": 1923,
+            "y2": 1996,
+            "x2": 1485
+          },
+          "doc_text": "_ 4-2.0mm* TW IN 20mmé FVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1583,
+            "y1": 1921,
+            "y2": 1996,
+            "x2": 1764
+          },
+          "doc_text": "_ 4-2.0mm* TW IN 20mm¢ PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 588,
+            "y1": 1873,
+            "y2": 2050,
+            "x2": 815
+          },
+          "doc_text": "—KWHR METER 1-14mm* TW — GROUND in 20mme PVC ~{AT5] [MDP] "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1234,
+            "y1": 1836,
+            "y2": 2001,
+            "x2": 1298
+          },
+          "doc_text": "GC) ¢ "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 885,
+            "y1": 1823,
+            "y2": 1961,
+            "x2": 1209
+          },
+          "doc_text": "2-8.0mm? THHN + 1-5.5mm TW(G) IN 32mme PVC 2-22mm* THHN + 1-8.0mm TW(G) IN 40mme PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1510,
+            "y1": 1819,
+            "y2": 2042,
+            "x2": 1580
+          },
+          "doc_text": "® P "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 563,
+            "y1": 1764,
+            "y2": 1818,
+            "x2": 755
+          },
+          "doc_text": "2ND FLOOR LINE I "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 211,
+            "y1": 1750,
+            "y2": 1845,
+            "x2": 528
+          },
+          "doc_text": "OVERHEAD SERVICE ENTRANCE CONNECTED TO 230V AC, 38 4 WIRE, 60 Hz "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 770,
+            "y1": 1725,
+            "y2": 1784,
+            "x2": 840
+          },
+          "doc_text": "i LPB "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2143,
+            "y1": 1721,
+            "y2": 1871,
+            "x2": 2309
+          },
+          "doc_text": "— 5/8 ¢ TUBULAR STEM _FLOURESCENT LIGHT FIXTURE "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1303,
+            "y1": 1687,
+            "y2": 1760,
+            "x2": 1482
+          },
+          "doc_text": "_ 4-2.0mm* TW IN 20mmé# FVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1583,
+            "y1": 1684,
+            "y2": 1759,
+            "x2": 1767
+          },
+          "doc_text": "_ 4-2.0mm® TW IN 20mm¢ PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2343,
+            "y1": 1656,
+            "y2": 1709,
+            "x2": 2517
+          },
+          "doc_text": "E-A <4 CEILING LEVEL "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2898,
+            "y1": 1630,
+            "y2": 1766,
+            "x2": 2986
+          },
+          "doc_text": "SW —283W Sfc "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2169,
+            "y1": 1619,
+            "y2": 1696,
+            "x2": 2275
+          },
+          "doc_text": "a 4 p _ CANOPY BASE , "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1234,
+            "y1": 1544,
+            "y2": 1711,
+            "x2": 1297
+          },
+          "doc_text": "® "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 885,
+            "y1": 1541,
+            "y2": 1619,
+            "x2": 1203
+          },
+          "doc_text": "2-8.0mm? THHN + 1-5.5mm TW(G) IN 32mme PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2914,
+            "y1": 1450,
+            "y2": 1630,
+            "x2": 2984
+          },
+          "doc_text": "=} ® Ss S2 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 566,
+            "y1": 1436,
+            "y2": 1531,
+            "x2": 826
+          },
+          "doc_text": "LPC ~3RD FLOOR LINE "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1303,
+            "y1": 1400,
+            "y2": 1474,
+            "x2": 1483
+          },
+          "doc_text": "_4-2.0mm* TW IN 20mme PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1583,
+            "y1": 1398,
+            "y2": 1471,
+            "x2": 1767
+          },
+          "doc_text": "_ 4-2.0mm* TW IN 20mm¢ PVC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3052,
+            "y1": 1280,
+            "y2": 2403,
+            "x2": 3761
+          },
+          "doc_text": "1-18 WATTS COMPACT FLUORESCENT LAMP WITH MEDIUM BASE, KEYLESS TYPE PORCELAIN RECEPTACLE 1 x 36 WATTS FLUORESCENT LIGHTING FIXTURE, BOX TYPE 2 x 36 WATTS FLUORESCENT LIGHTING FIXTURE, BOX TYPE WITH CANOPY BASE AND STEM 1.5 FT. (450mm) LENGTH SIMILAR TO AMCO AP—1113—1.5 OR APPROVED EQUAL 2 x 36 WATTS FLUORESCENT LIGHTING FIXTURE, BOX TYPE WALL FAN OUTLET SINGLE POLE WALL SWITCH DUPLEX SWITCH, 2 SINGLE POLE SWITCHES ON ONE SWITCH PLATE THREE WAY WALL SWITCH 2 THREE WAY WALL SWITCHES ON ONE SWITCH PLATE FAN CONTROL SWITCH RACEWAY CONDUIT CONCEALED IN CEILING RACEWAY CONDUIT CONCEALED UNDER FLOOR PANELBOARD, MARKED AS \"LP\" CKT. BREAKER, RATING AS INDICATED DUPLEX CONVENIENCE OUTLET, GROUNDING TYPE 15 AMPS, 240 VOLT WEATHERPROOF DUPLEX CONVENIENCE OUTLET, GROUNDING TYPE,15 AMPS, 240 VOLT CIRCUIT HOMERUN ENCLOSED AIR CIRCUIT BREAKER FIRE ALARM CONTROL PANEL FIRE ALARM STATION QUTLET FIRE ALARM BELL SERVICE METER SERVICE ENTRANCE MAIN DISTRIBUTION PANELBOARD AUTOMATIC TRANSFER SWITCH "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1515,
+            "y1": 1268,
+            "y2": 1387,
+            "x2": 1581
+          },
+          "doc_text": "® "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1241,
+            "y1": 1264,
+            "y2": 1414,
+            "x2": 1301
+          },
+          "doc_text": "® "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1671,
+            "y1": 1258,
+            "y2": 1321,
+            "x2": 1741
+          },
+          "doc_text": "E-1 "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3059,
+            "y1": 1229,
+            "y2": 1285,
+            "x2": 3278
+          },
+          "doc_text": "DESCRIPTION "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1760,
+            "y1": 1201,
+            "y2": 1316,
+            "x2": 2339
+          },
+          "doc_text": "SINGLE LINE DIAGRAM "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2818,
+            "y1": 1162,
+            "y2": 1284,
+            "x2": 3059
+          },
+          "doc_text": "LEGEND: "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1587,
+            "y1": 1049,
+            "y2": 1202,
+            "x2": 2192
+          },
+          "doc_text": "had Ad PUMP MOTOR #1 3 wb lp TOR #2 3 HP 1PH, 60Hz, 230V 1PH, 60kz, f230V "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1195,
+            "y1": 865,
+            "y2": 921,
+            "x2": 1520
+          },
+          "doc_text": "600A 3P (ECB) 240(NEMA 3R) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2125,
+            "y1": 862,
+            "y2": 986,
+            "x2": 2548
+          },
+          "doc_text": "- 40AT 3P, 240V ECB (NEMA 3R) _2-5.5mm? THHN + 1-5.5mm? TW(G) IN 25mme RSC - 40AT 2P, 240V ECB (NEMA 3R) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1860,
+            "y1": 839,
+            "y2": 888,
+            "x2": 1970
+          },
+          "doc_text": "sr. spe "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1199,
+            "y1": 782,
+            "y2": 860,
+            "x2": 1518
+          },
+          "doc_text": "1-125mm® THHN + 1-22mm* TW(G) IN 80mms RSC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2124,
+            "y1": 775,
+            "y2": 849,
+            "x2": 2315
+          },
+          "doc_text": "_ 3-5.5mm? THHN - 25mme RSC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2352,
+            "y1": 773,
+            "y2": 829,
+            "x2": 2551
+          },
+          "doc_text": "5.5mm? TW(G) IN "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1854,
+            "y1": 770,
+            "y2": 831,
+            "x2": 1956
+          },
+          "doc_text": "—e A0AT, Tokhc "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1670,
+            "y1": 713,
+            "y2": 897,
+            "x2": 1840
+          },
+          "doc_text": "BO0AT,600AF 3p, [42 40AT,JO0AF 2P PKA ©] ©] "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1993,
+            "y1": 709,
+            "y2": 762,
+            "x2": 2277
+          },
+          "doc_text": "—6O0AT/600AF 3P, 42 KAIC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1836,
+            "y1": 650,
+            "y2": 705,
+            "x2": 2002
+          },
+          "doc_text": "FPP(NEMA 3R) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2248,
+            "y1": 601,
+            "y2": 673,
+            "x2": 2354
+          },
+          "doc_text": "GROUND ROD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2005,
+            "y1": 587,
+            "y2": 688,
+            "x2": 2223
+          },
+          "doc_text": "—3—150mm? THHN + 1-22mm? TW(G) IN 80mme RSC "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1037,
+            "y1": 554,
+            "y2": 624,
+            "x2": 1139
+          },
+          "doc_text": "[GROUND ROD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2388,
+            "y1": 519,
+            "y2": 640,
+            "x2": 2564
+          },
+          "doc_text": "— 22mm* TW (G) — 16mme x 3mL GROUND ROD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1534,
+            "y1": 484,
+            "y2": 556,
+            "x2": 1652
+          },
+          "doc_text": "hdl (GROUND ROD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 789,
+            "y1": 484,
+            "y2": 596,
+            "x2": 966
+          },
+          "doc_text": "1-22mm* TW(G) - 16mm x 3mL _ GROUND ROD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3394,
+            "y1": 438,
+            "y2": 491,
+            "x2": 3636
+          },
+          "doc_text": "+—WIRE, 230V AC, 60Hz. "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2128,
+            "y1": 419,
+            "y2": 468,
+            "x2": 2207
+          },
+          "doc_text": "—t—d |BOOAT/E "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 749,
+            "y1": 373,
+            "y2": 469,
+            "x2": 996
+          },
+          "doc_text": "100kVA(BOKW), 3PH,—— 230V, 60Hz 1800RPM, 0.8pf "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 1583,
+            "y1": 367,
+            "y2": 490,
+            "x2": 1841
+          },
+          "doc_text": "700AT, BOOAF, 3p, 65 KAIC | ——— 1-22mm* TW (G) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2042,
+            "y1": 353,
+            "y2": 503,
+            "x2": 2127
+          },
+          "doc_text": "LPA OD LPc PPR "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2832,
+            "y1": 321,
+            "y2": 1025,
+            "x2": 3872
+          },
+          "doc_text": "1. ALL ELECTRICAL WORKS SHALL COMFLY WITH THESE PLANS AND SPECIFICATIONS. THE APPLICABLE PROVISIONS OF THE LATEST EDITION OF THE PHILIPPINE ELECTRICAL CODE (PEC), THE RULES AND REGULATIONS OF THE LOCAL ENFORCING AUTHORITY AND THE REQUIREMENTS OF THE LOCAL POWER COMPANY, 2. THE ELECTRICAL SERVICE POWER SHALL BE 3—PHASE, 4-WIRE, 230V AC, 60Hz. 3. WIRING METHOD SHALL BE AS FOLLOWS: RIGID STEEL CONDUIT OR POLYVINYL CHLORIDE CONDUIT SCHEDULE 40 SHALL BE USED AS SPECIFIED IN THE PLAN. 4. ALL WIRES SHALL BE COPPER AND THERMOPLASTIC INSULATED TYPE “THHN\" UNLESS OTHERWISE INDICATED IN THE PLAN. THE MINIMUM SIZE WIRE FOR POWER AND LIGHTING CIRCUIT HOMERUNS SHALL BE 3.5mm? AND INSULATED FOR 60OVOLTS. LIKE WISE, ALL CONDUCTORS SHALL BE COLOR-CODED. SMALLEST RACEWAY SHALL BE 15mm@. (NOMINAL) 5. ALL OUTLET BOXES SHALL BE GALVANIZED GAGE NO. 16 DEEP TYPE. 6. ALL MATERIALS TO BE USED SHALL BE BRAND NEW AND APPROVED FOR THE PARTICULAR LOCATION AND USAGE. 7. EQUIPMENT GROUNDING SYSTEM SHALL BE PROVIDED TO THE ELECTRICAL SYSTEM AS PER PHILIPPINE ELECTRICAL CODE REQUIREMENT. 8. MOUNTING HEIGHT OF WIRING DEVICES SHALL BE AS FOLLOWS: a. LIGHT SWITCH — 1.20M ABOVE FINISH FLOOR b. CONVENIENCE OUTLET — ©0.3M ABOVE FINISH FLOOR 9. ALL ELECTRICAL WORKS SHALL BE DONE UNDER THE DIRECT AND IMMEDIATE SUPERVISION OF A DULY REGISTERED ELECTRICAL ENGINEER. "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 3400,
+            "y1": 687,
+            "y2": 727,
+            "x2": 3420
+          },
+          "doc_text": "1€ "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 761,
+            "y1": 311,
+            "y2": 366,
+            "x2": 965
+          },
+          "doc_text": "GENERATOR PANEL - "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2345,
+            "y1": 299,
+            "y2": 462,
+            "x2": 2587
+          },
+          "doc_text": "____ 700AT/BOOAF 3P, 65 kAIC —-QLprB (@ SPACE "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2812,
+            "y1": 231,
+            "y2": 311,
+            "x2": 3270
+          },
+          "doc_text": "GENERAL NOTES "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 679,
+            "y1": 183,
+            "y2": 255,
+            "x2": 785
+          },
+          "doc_text": "- GROUND ROD "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 2057,
+            "y1": 87,
+            "y2": 165,
+            "x2": 2417
+          },
+          "doc_text": "? SETS (3—125mm? THHN + 1-22mm? TW(G) IN 80mme RSC) "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 738,
+            "y1": 85,
+            "y2": 219,
+            "x2": 1007
+          },
+          "doc_text": "SERVICE Sli (v) KHW METER IND "
+        },
+        {
+          "par_num": 1,
+          "page_num": 1,
+          "bbox": {
+            "x1": 58,
+            "y1": 50,
+            "y2": 415,
+            "x2": 535
+          },
+          "doc_text": "NOTE: PURSUANT TO SECTION 4 OF ANNEX “A” OF THE REVISED MPLEMENTING RULES AND REGLRATION OF RA 9184, APPROVAL BY THE AUTHORIZED DPWH OFFICIALS OF DETALED ENGINEERING SURVEYS AND DESIGN UNDERTAKEN BY CONSULTANTS NETHER DRMNISHES THE RESPONSIGILITY OF THE LATTER FOR THE TECHNICAL INTEGRITY OF THE SURVEYS AND DESIGN NOR TRANSFER ANY PART OF THAT RESPONSIBILITY TO THE APPROVING OFFICIALS. THE DESIGN CONSULTANT SHALL BE HELD FULLY RESPONSIBLE FOR THE FALURE OF THE FACIITY/IES/STRUCTURES DUE TO FAULTY DESIGN EXCEPT FOR THE CHANGES MADE MTHOUT THE CONFORMITY OF THE CONSULTANTS. "
+        }
+      ]
+    }
+  }
+]

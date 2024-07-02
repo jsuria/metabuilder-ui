@@ -1,0 +1,6 @@
+const condition = "+AND+((file_format:doc+OR+file_format:docx+OR+file_format:xls+OR+file_format:xlsx+OR+file_format:ppt+OR+file_format:pptx+OR+file_format:txt+OR+file_format:csv+OR+file_format:pdf+OR+file_format:jpeg+OR+file_format:png+OR+file_format:jpg+OR+file_format:tif+OR+file_format:tiff+OR+file_format:bmp+OR+file_format:others)+AND+(scale:well+OR+scale:block+OR+scale:regional+OR+scale:others)+AND+(discipline:drilling+OR+discipline:geology+OR+discipline:geomechanics+OR+discipline:geophysics+OR+discipline:petrophysics+OR+discipline:production+OR+discipline:reservoir_engineering+OR+discipline:mechanical_engineering+OR+discipline:others)+AND+(doc_classification:fwr+OR+doc_classification:analysis+OR+doc_classification:gen_info+OR+doc_classification:measurement+OR+doc_classification:reports+OR+doc_classification:others)+AND+(priority:very_high+OR+priority:high+OR+priority:medium+OR+priority:low)))+AND+(content_type:nontext)+AND+(img_tag_1:%22Figure%22)+AND+(project_id:4bff989e-8443-4446-9039-81b04a39c5eb,5abbe3b0-1ce9-4101-bd00-1c2e95313d12,df79cd4f-88ec-4777-bf4d-e023c687736a,7c4a3ad8-ce7c-4cd5-a0fd-70244cb460a7,c6d29162-4254-42d9-b778-bb50ef76d651)"
+
+export default {
+    diagram: `((doc_text:diagrams+)${condition}`,
+    drawing: `((doc_text:drawings+)${condition}`
+}
